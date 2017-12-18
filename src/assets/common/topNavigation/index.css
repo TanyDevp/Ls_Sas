@@ -1,0 +1,55 @@
+.NavMenu{
+    border-bottom: initial;
+    font-size: 18px;
+    padding: 10px 0px;
+    font-family: '黑体';
+    text-align: center;
+    min-width: 770px;
+    padding-bottom: 0;
+}
+
+.rowMenu{
+    border-bottom: 2px solid #00AF8D;
+}
+
+.navTitle{
+    height: 60px;
+    font-family: 微软雅黑;
+}
+
+.ant-menu-item-selected .navTitle{
+    color: #00AF8D;
+}
+
+code{
+    font-size: .5em;
+    color:#ccc;
+    display: block;
+    text-align: center;
+    line-height: 0;
+}
+
+.lslogo{
+    padding: 20px 0px;
+    text-align: right;
+}
+.lslogo img{
+    height: 40px;
+}
+
+.rowMenu .ant-menu-item a::before{
+    border-left: 1px solid #f3f3f3;
+    height: 30px;
+    margin-top: 15px;
+}
+.rowMenu .ant-menu-item:first-child a::before{
+    border-left: 0px;
+}
+
+.NavMenu li{
+    padding: 0px;
+    height: 71px;
+}
+.NavMenu li a{
+    padding: 0 20px;
+}

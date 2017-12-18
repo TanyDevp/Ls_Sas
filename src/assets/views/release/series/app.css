@@ -1,0 +1,28 @@
+.danger{
+    color: #F44336;
+}
+
+.seriesName{
+    color: #00AF8D;
+    font-weight: 600;
+    font-family: 微软雅黑;
+}
+.releaseBlock{
+   width:240px;
+   margin: 0 auto;
+   border:1px solid rgba(158, 158, 158, 0.3);
+}
+.releaseClass{
+    background: #f3f3f3;
+    padding: 10px
+}
+.seriesState{
+    position: absolute;
+    width: 237px;
+    text-align: center;
+    margin-top: -21px;
+    color: #fff;
+    font-weight: 600;
+    background: rgba(158, 158, 158, 0.65);
+    cursor:pointer;
+}

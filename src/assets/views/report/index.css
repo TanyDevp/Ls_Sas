@@ -1,0 +1,17 @@
+.Menu{
+    text-align: right;
+    padding: 20px;
+}
+.seriesTitle{
+    width: 800px;
+}
+.seriesTitle h1{
+    text-align: center;
+    font-size: 3em; 
+    font-weight: bold;
+}
+.seriesTitle p{
+    font-size: 1.3em;
+    text-align: center;
+    text-decoration: underline;
+}

@@ -1,0 +1,25 @@
+.commodityRow{
+    margin-top: 20px;
+}
+
+.itemTitle{
+    background: #bdbdbd;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 20px;
+    /* border-radius: 5px; */
+    margin-bottom: 0;
+}
+.CommoditySteps{
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 20px;
+}
+.ant-table-expanded-row td{
+    background: #f3f3f3 !important;
+}
+
+th.commodityTableRow span{
+    font-weight: 600;
+}

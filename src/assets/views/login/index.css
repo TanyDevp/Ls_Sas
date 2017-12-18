@@ -1,0 +1,61 @@
+.login_lslogo{
+   height: 80px;
+   display: block;
+   margin: 0 auto;
+}
+
+.loginBlock{
+    margin: 0 auto;
+    position: absolute;
+    top:25%;
+    left: 0;
+    right: 0;
+}
+.loginForm{
+    margin-top: 50px;
+    width: 300px;
+}
+.login_icon{
+    font-size: 18px;
+    border:2px solid #00af8d;
+    color: #00af8d;
+    border-radius: 20px;
+    padding: 5px;
+    font-weight: 600;
+    float: left;
+}
+.login_input{
+    float: left;
+    width: 300px;
+    margin-left: 10px;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    font-size: 16px;
+}
+
+.login_btn{
+    width: 90%;
+    border-radius: 20px;
+}
+
+.login_input:-webkit-autofill {
+     -webkit-box-shadow: 0 0 0 100px white inset; 
+}
+.ant-form-item-with-help{
+    margin-bottom: 24px;
+}
+.errTitle{
+    background:#f3f3f3;
+    color:#F44336;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    width: 90%;
+    margin: 0 auto;
+}
+.closeerrTitle{
+    float: right;
+    color: #9E9E9E;
+    font-weight: 600;
+}

@@ -1,0 +1,8 @@
+ .assDataClass{
+     padding: 50px 20px;
+ }
+ .ant-tablefooter tfoot td{
+     border-right: 1px solid #e8e8e8;
+     text-align: center;
+ }
+  

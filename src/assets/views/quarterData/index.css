@@ -1,0 +1,20 @@
+.quarterTable .ant-table-title{
+    background: #00AF8D;
+    border-radius: 10px;
+}
+.QuarterSelect{
+    background: #00af8d;
+    color: #fff;
+    font-weight: 600;
+    font-family: 微软雅黑;
+}
+.QuarterSelect .ant-select-selection-selected-value{
+    width: 100%;
+    text-align: center;
+}
+.QuarterSelect .ant-select-selection{
+    background: #00AF8D;
+}
+.QuarterSelect .ant-select-arrow{
+    color: #fff;
+}
